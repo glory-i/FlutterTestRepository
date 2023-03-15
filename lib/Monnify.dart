@@ -75,7 +75,7 @@ class _MonnifyState extends State<Monnify> {
                 decoration: InputDecoration(
                     border: OutlineInputBorder(),
                     labelText: 'Amount',
-                    hintText: 'Enter Amount',
+                    hintText: 'Enter Amount For this Transaction',
                 ),
               ),
 
